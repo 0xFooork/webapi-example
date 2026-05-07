@@ -4,7 +4,7 @@ import (
 	"context"
 	"webapi-example/pkg/models"
 
-	"github.com/andOneBasketball/baseapi-go/pkg/utils"
+	"github.com/0xFooork/baseapi-go/pkg/utils"
 )
 
 func Hello(ctx context.Context, req *models.HelloReq) (resp *models.CommonResp, err error) {

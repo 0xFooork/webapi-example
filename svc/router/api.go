@@ -5,7 +5,7 @@ import (
 	"webapi-example/pkg/logger"
 	v1 "webapi-example/svc/api/v1"
 
-	"github.com/andOneBasketball/baseapi-go/pkg/web/gin_zap"
+	"github.com/0xFooork/baseapi-go/pkg/web/gin_zap"
 
 	"github.com/gin-gonic/gin"
 )

@@ -5,7 +5,7 @@ import (
 	"webapi-example/pkg/models"
 	"webapi-example/svc/service"
 
-	"github.com/andOneBasketball/baseapi-go/pkg/web/xlhttp"
+	"github.com/0xFooork/baseapi-go/pkg/web/xlhttp"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

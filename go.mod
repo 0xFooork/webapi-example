@@ -3,7 +3,7 @@ module webapi-example
 go 1.24.2
 
 require (
-	github.com/andOneBasketball/baseapi-go v0.0.3
+	github.com/0xFooork/baseapi-go v0.0.4
 	github.com/gin-gonic/gin v1.10.1
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/matoous/go-nanoid/v2 v2.1.0
